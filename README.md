@@ -1,0 +1,1 @@
+# Multi-camera-synchronous-departure-combined-picture-display
